@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi there 👋
+Currently interested in knowledge engineering for LLM, etc.
+多謝你哋嘅關注。
 
 <!--
 **AGATCT/AGATCT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
